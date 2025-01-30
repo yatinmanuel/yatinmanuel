@@ -1,4 +1,4 @@
-<img src='https://yatin.lol/assets/yatin_banner.png' alt="banner"></img>
+<img src='https://yatin.lol/assets/yatin_banner_cropped.png' alt="banner"></img>
 
 ```
 I'm Yatin Jason Manuel
