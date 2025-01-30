@@ -3,10 +3,10 @@
 ```
 I'm Yatin Jason Manuel
 
-CEO @ Halvex Inc.
+Co-founder @ Halvex Inc.
 Student @ George Mason University
 
 email: yatin@halvex.net
 ```
 
-`curl https://yatin.lol/stevejobs`
+`outsmart everyone.`
